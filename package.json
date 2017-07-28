@@ -1,6 +1,6 @@
 {
   "name": "@rdelhommer/ng-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base object functionality for AngularJS",
   "main": "index.js",
   "repository": "https://github.com/rdelhommer/ng-core",
