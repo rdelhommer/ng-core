@@ -1,0 +1,17 @@
+{
+  "name": "@rdelhommer/ng-core",
+  "version": "1.0.0",
+  "description": "Base object functionality for AngularJS",
+  "main": "index.js",
+  "repository": "https://github.com/rdelhommer/ng-core",
+  "author": "Rick Delhommer <rdelhommer@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "angular": ">=1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
