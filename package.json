@@ -1,6 +1,6 @@
 {
   "name": "@rdelhommer/ng-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base object functionality for AngularJS",
   "main": "index.js",
   "repository": "https://github.com/rdelhommer/ng-core",
@@ -13,5 +13,8 @@
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.0"
-  }
+  },
+  "files": [
+    "dist/**/*.js"
+  ]
 }
