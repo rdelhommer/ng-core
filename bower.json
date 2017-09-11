@@ -1,0 +1,17 @@
+{
+  "name": "rdelhommer-ng-core",
+  "description": "Base object functionality for AngularJS",
+  "main": "index.js",
+  "authors": [
+    "Rick Delhommer <rdelhommer@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rdelhommer/ng-core",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
